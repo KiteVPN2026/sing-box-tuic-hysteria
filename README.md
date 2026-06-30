@@ -79,7 +79,7 @@ Setting up TUIC or Hysteria2 on a personal VPS requires opening UDP ports. Howev
 
 #### Unshackle Your Speed Now
 Download Kite VPN for optimized next-gen network acceleration:
-- **Official Website**: [KiteVPN](http://kitevip.vip)
+- **Official Website**: [KiteVPN](https://kitevip.vip?f=github)
 - One tap to unlock the global internet.
 
 ---
@@ -159,7 +159,7 @@ Download Kite VPN for optimized next-gen network acceleration:
 
 #### 立即开启极速网络
 下载 Kite VPN，体验下一代网络加速技术：
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 开启您的免费试用。
 
 ---
@@ -239,5 +239,5 @@ Download Kite VPN for optimized next-gen network acceleration:
 
 #### Получите максимальную скорость уже сегодня
 Скачайте Kite VPN для работы на передовых скоростях:
-- **Наш сайт**: [KiteVPN](http://kitevip.vip)
+- **Наш сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Начните бесплатный тест прямо сейчас.
